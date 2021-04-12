@@ -6,7 +6,7 @@ Coming soon... the **Archive Forge**.
 
 Help researchers generate better archive files. 
 
-[Zip](zip.png)
+![Zip](zip.png = 50x)
 
 # Features
 
