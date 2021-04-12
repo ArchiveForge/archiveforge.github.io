@@ -1,7 +1,12 @@
 ## Archive forge Organization
+
+Coming soon... the **Archive Forge**.
+
 # Goal
 
-Help researchers to generate better archive files. 
+Help researchers generate better archive files. 
+
+
 
 # Features
 
