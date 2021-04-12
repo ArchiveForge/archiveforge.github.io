@@ -6,7 +6,7 @@ Coming soon... the **Archive Forge**.
 
 Help researchers generate better archive files. 
 
-<img src="./zip.png" alt="drawing" width="80"/>
+<img src="./zip.png" alt="drawing" width="100"/>
 
 # Features
 
