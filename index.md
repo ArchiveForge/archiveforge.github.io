@@ -6,8 +6,6 @@ Coming soon... the **Archive Forge**.
 
 Help researchers generate better archive files. 
 
-![Zip](./zip.png = 50x)
-
 <img src="zip.png" alt="drawing" width="50"/>
 
 # Features
