@@ -6,9 +6,16 @@ Help researchers to generate better archive files.
 # Features
 
 - Defined file structure in the archive file.
-- Field-specific metadata (for Findability of content)
-- Auto-fill authors, publication, institution, etc.
-- Data and metadata extraction
-- Automatic format conversion
+- Field-specific metadata.
+- Auto-fill authors, publication, institution, *etc*.
+- Data and metadata extraction.
+- Format conversion.
+
+# FAIR
+
+# Improved *F*indability
+
+The metadata allows search engines and specialized database to find your data.
+
 
 More information are coming soon ...
