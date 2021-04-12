@@ -18,7 +18,7 @@ Help researchers generate better archive files.
 
 # FAIR
 
-# Improved *F*indability
+# Improved [F](fair.md)indability
 
 The metadata allows search engines and specialized database to find your data.
 
