@@ -1,4 +1,4 @@
-## Welcome to the Archive forge Organization
+## Archive forge Organization
 # Goal
 
 Help researchers to generate better archive files. 
