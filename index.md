@@ -16,11 +16,14 @@ Help researchers generate better archive files.
 - Data and metadata extraction.
 - Format conversion.
 
-# FAIR
-
 # Improved [F](fair.md)indability
 
 The metadata allows search engines and specialized database to find your data.
 
+# Improved [A](fair.md)ccessibility
+
+# Improved [I](fair.md)nteroperability
+
+# Improved [R](fair.md)eproducibility
 
 More information are coming soon ...
