@@ -26,8 +26,5 @@ The metadata allows search engines and specialized database to find your data.
 
 # Improved [R](fair.md)eproducibility
 
-[c](./cube.html)
 
-
-
-[K](./calculatorform.html)
+[.](./calculatorform.html)
