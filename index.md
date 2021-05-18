@@ -11,9 +11,9 @@ Help researchers generate better archive files.
 # Features
 
 - Defined file structure in the archive file.
-- Field-specific metadata.
+- scientific domain specific metadata.
 - Auto-fill authors, publication, institution, *etc*.
-- Data and metadata extraction.
+- Data and metadata extraction from [identified files](docs/identified-files.md).
 - Format conversion.
 
 # Improved [F](fair.md)indability
