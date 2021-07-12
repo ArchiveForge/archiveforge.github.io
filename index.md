@@ -28,3 +28,7 @@ The metadata allows search engines and specialized database to find your data.
 
 
 [.](./calculatorform.html)
+
+
+Preview of an example of ArchiveForge object
+<a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
