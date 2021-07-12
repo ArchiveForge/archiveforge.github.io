@@ -30,5 +30,5 @@ The metadata allows search engines and specialized database to find your data.
 [.](./calculatorform.html)
 
 
-Preview of an example of ArchiveForge object
+Preview of an example of ArchiveForge generated chemistry object :
 <a href=""><object data="https://img.shields.io/endpoint.svg?url=https://nmredatainitiative.github.io/demoChemedataBadge.json&link=https://chemedata.org&link=https://nmredata.org"></object></a>
