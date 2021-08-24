@@ -2,6 +2,8 @@
 
 Coming soon... the **Archive Forge**.
 
+See the [ACS Fall meeting presentation](https://www.dropbox.com/s/g18xwa4x47k8ftz/ACS-Rehearsal_Presentation-Aug2021.m4v?dl=0) introducing the "Archive Forge".
+
 # Goal
 
 Help researchers generate better archive files. 
